@@ -1,0 +1,46 @@
+body{
+    background-color:rgb(247, 208, 226);
+
+}
+
+#amo{
+ font-size: 35px;
+ font-family: 'Neonderthaw', cursive; 
+    display: block;
+    text-align: center;
+    width: 50%;
+    margin-top: 0px;
+    margin-left: 23%;
+    
+
+}
+
+#carta{
+    font-size: 15;
+    display: inline-block;
+    text-align: center;
+    width: 80%;
+    margin-top: 10%;
+    margin-left: 10%;
+    
+}
+.love {
+    width: 700px;
+    height: 870px;
+    background: rgb(255, 255, 255);
+    position: absolute;
+    display: inline-block;
+  }
+  
+#corazon{
+    width: 60%;
+    margin-top: 11%;
+    margin-left: 19%;
+    cursor: pointer;
+  }
+.papel{
+    margin-top: 5%;
+    margin-left: 25%;
+    background-color: rgb(255, 255, 255);
+    width: 51%;
+}
